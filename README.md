@@ -1,1 +1,2 @@
-# referensi-design
+1. Neumorphism
+2. Glassmorphism
